@@ -19,4 +19,5 @@
 ![](https://img.shields.io/badge/markdown-earn_my_living-%23000000?style=for-the-badge&logo=markdown)  ![](https://img.shields.io/badge/command+c/v-goat-%234285f4?style=for-the-badge&logo=google)
 
 
-![](https://img.shields.io/badge/swift-rookie-%23fa7343?style=for-the-badge&logo=swift)  ![](https://img.shields.io/badge/html5-OKAY-%23e34f26?style=for-the-badge&logo=html5)  ![](https://img.shields.io/badge/javascript-trash-%23f7df1e?style=for-the-badge&logo=javascript)  ![](https://img.shields.io/badge/typescript-Beginner-%233178c6?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/html5-OKAY-%23e34f26?style=for-the-badge&logo=html5)  ![](https://img.shields.io/badge/swift-rookie-%23fa7343?style=for-the-badge&logo=swift) ![](https://img.shields.io/badge/typescript-Beginner-%233178c6?style=for-the-badge&logo=typescript)
+   ![](https://img.shields.io/badge/javascript-trash-%23f7df1e?style=for-the-badge&logo=javascript)  
