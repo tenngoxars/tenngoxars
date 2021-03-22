@@ -5,7 +5,7 @@
 
 ## My Tools
 
-![](https://img.shields.io/badge/FCP-master-%23000000?style=for-the-badge&logo=apple)  ![](https://img.shields.io/badge/PR-master-%239999ff?style=for-the-badge&logo=adobe-premiere-pro)
+![](https://img.shields.io/badge/FCP-master-%23000000?style=for-the-badge&logo=apple)  ![](https://img.shields.io/badge/PR-pro-%239999ff?style=for-the-badge&logo=adobe-premiere-pro)
 
 
 ![](https://img.shields.io/badge/Git-Intermediate-%23f05032?style=for-the-badge&logo=git)  ![](https://img.shields.io/badge/VS_code-not_bad-%23007acc?style=for-the-badge&logo=visual-studio-code)
