@@ -1,11 +1,13 @@
-<div align="center">
+# User Profile
 
-<h3>
-  Writer / Documents Fixer / Video Editor
-</h3>
+```yaml
+identity:
+  name: Tenngoxars
+  role: [Writer, Doc Fixer, Video Editor]
+  coding_ability: null
 
-<p>
-  <b>🚫 NOT A CODER</b>
-</p>
+mission:
+  - Turn raw footage into cinema
+  - Turn messy docs into knowledge
 
-</div>
+status: "Creating..."
