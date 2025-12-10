@@ -13,4 +13,4 @@ tenngoxars@github:~$ check_status
 > 🟢 Editing..... [Active]
 
 tenngoxars@github:~$ echo $MOTTO
-> "Writing code to fix writing."
+> "Writing code for better writing."
