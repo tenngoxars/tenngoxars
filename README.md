@@ -1,13 +1,16 @@
-# User Profile
+```bash
+tenngoxars@github:~$ whoami
+> Writer / Editor / Not a Coder
 
-```yaml
-identity:
-  name: Tenngoxars
-  role: [Writer, Doc Fixer, Video Editor]
-  coding_ability: null
+tenngoxars@github:~$ ls ./projects
+> WeMD.app        (Markdown Wechat Editor)
+> Velvimage.com   (AI image generator)
+> Serchain.xyz    (Blockchain tracker)
 
-mission:
-  - Turn raw footage into cinema
-  - Turn messy docs into knowledge
+tenngoxars@github:~$ check_status
+> 🟢 Coding...... [Off Work]
+> 🟢 Writing..... [Active]
+> 🟢 Editing..... [Active]
 
-status: "Creating..."
+tenngoxars@github:~$ echo $MOTTO
+> "Writing code to fix writing."
