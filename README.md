@@ -5,7 +5,6 @@ tenngoxars@github:~$ whoami
 tenngoxars@github:~$ ls ./projects
 > WeMD.app        (Markdown Wechat Editor)
 > Velvimage.com   (AI image generator)
-> Serchain.xyz    (Blockchain tracker)
 
 tenngoxars@github:~$ check_status
 > 🟢 Coding...... [Off Work]
