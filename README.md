@@ -4,7 +4,7 @@ tenngoxars@github:~$ whoami
 
 tenngoxars@github:~$ ls ./projects
 > WeMD.app        (Markdown Wechat Editor)
-> IMAGO  (AI image generator)
+> IMAGO           (AI image generator)
 
 tenngoxars@github:~$ check_status
 > 🟢 Coding...... [Off Work]
