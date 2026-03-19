@@ -1,9 +1,9 @@
-```bash
 tenngoxars@github:~$ whoami
 > Writer / Editor / Not a Coder
 
 tenngoxars@github:~$ ls ./projects
-> WeMD.app        (Markdown Wechat Editor)
+> WeMD.app        (Markdown WeChat Editor)
+> PicPak.app      (local-first image compressor)
 > IMAGO           (AI image generator)
 
 tenngoxars@github:~$ check_status
