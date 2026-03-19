@@ -1,3 +1,4 @@
+```bash
 tenngoxars@github:~$ whoami
 > Writer / Editor / Not a Coder
 
@@ -13,3 +14,4 @@ tenngoxars@github:~$ check_status
 
 tenngoxars@github:~$ echo $MOTTO
 > "Writing code for better writing."
+```
